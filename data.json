@@ -1,0 +1,77 @@
+[
+  {
+    "id": 21,
+    "firstName": "Benjamin",
+    "lastName": "Allen",
+    "deposit": 6100,
+    "creditcard": "Visa",
+    "createdAt": "2024-03-31T00:00:00Z",
+    "profileInfo": {
+      "age": 35,
+      "gender": "Male",
+      "occupation": "Software Engineer",
+      "city": "San Jose",
+      "email": "benjamin.allen@example.com"
+    }
+  },
+  {
+    "id": 22,
+    "firstName": "Chloe",
+    "lastName": "Davis",
+    "deposit": 12500,
+    "creditcard": "Mastercard",
+    "createdAt": "2024-04-01T00:00:00Z",
+    "profileInfo": {
+      "age": 28,
+      "gender": "Female",
+      "occupation": "Data Scientist",
+      "city": "Seattle",
+      "email": "chloe.davis@example.com"
+    }
+  },
+  {
+    "id": 23,
+    "firstName": "Ethan",
+    "lastName": "Fisher",
+    "deposit": 4200,
+    "creditcard": "Amex",
+    "createdAt": "2024-04-02T00:00:00Z",
+    "profileInfo": {
+      "age": 41,
+      "gender": "Male",
+      "occupation": "Project Manager",
+      "city": "New York",
+      "email": "ethan.fisher@example.com"
+    }
+  },
+  {
+    "id": 24,
+    "firstName": "Grace",
+    "lastName": "Harris",
+    "deposit": 8900,
+    "creditcard": "Visa",
+    "createdAt": "2024-04-03T00:00:00Z",
+    "profileInfo": {
+      "age": 22,
+      "gender": "Female",
+      "occupation": "UX Designer",
+      "city": "Austin",
+      "email": "grace.harris@example.com"
+    }
+  },
+  {
+    "id": 25,
+    "firstName": "Isaac",
+    "lastName": "Jones",
+    "deposit": 15000,
+    "creditcard": "Discover",
+    "createdAt": "2024-04-04T00:00:00Z",
+    "profileInfo": {
+      "age": 55,
+      "gender": "Male",
+      "occupation": "Financial Analyst",
+      "city": "Chicago",
+      "email": "isaac.jones@example.com"
+    }
+  }
+]
